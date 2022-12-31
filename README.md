@@ -18,7 +18,7 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 ## Incentivized Testnet Program
 
 ### Phase 1: Sidh
-![OKP4-GitHub-Phase1](https://user-images.githubusercontent.com/102043225/210130959-0c560261-08e6-4072-a1ed-0ce665a4c848.jpg)
+![OKP4-GitHub-Phase1](https://user-images.githubusercontent.com/102043225/210132728-143a26da-ee1d-45bf-8601-5236095823c4.jpg)
 
 ### Phase 2: Imbolc (Coming Soon)
 ![OKP4-GitHub-Phase2](https://user-images.githubusercontent.com/102043225/210132694-42bb5015-92a6-4597-8947-020a1c92b359.jpg)
