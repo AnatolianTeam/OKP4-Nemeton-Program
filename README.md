@@ -25,3 +25,6 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 
 ### Phase 3: Beltaine (Coming Soon)
 ![OKP4-GitHub-Phase3](https://user-images.githubusercontent.com/102043225/210132699-fbe76a29-07f1-4350-bc53-16f451e2a3fe.jpg)
+
+## Node Setup Guide
+Please go to Node Setup Guide page.
