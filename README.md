@@ -1,6 +1,6 @@
 ![OKP4-GitHub-Content-Banner](https://user-images.githubusercontent.com/102043225/210115257-b950ffb7-590c-44c6-9a9a-e2b12a5062a9.jpg)
 
-# OKP4-Nemeton-Program
+# OKP4 Nemeton Program
 Everything is about OKP4 Nemeton Program
 
 ## What is OKP4?
