@@ -47,4 +47,4 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 <img src="/images/OKP4-GitHub-Phase3.jpg" width="auto" height="auto">
 
 ## Node Setup Guide
-Please go to [Node Setup Guide](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/OKP4%20Nemeton%20Setup%20Guide.md) page.
+Please go to [Node Setup Guide](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/OKP4%20Nemeton%20Node%20Setup%20Guide.md) page.
