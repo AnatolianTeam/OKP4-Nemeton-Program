@@ -14,21 +14,31 @@ Once a transaction has been validated, it is added to a block of transactions an
 
 The process of validation in the OKP4 blockchain is an essential part of ensuring the integrity and reliability of the blockchain. By ensuring that only valid transactions are added to the blockchain, the OKP4 blockchain is able to maintain its decentralized and trustless nature, making it an ideal platform for a wide range of applications, including financial transactions, supply chain management, and more. So, validation is an important aspect of the OKP4 blockchain, as it helps to ensure the integrity and reliability of the transactions recorded on the blockchain.
 
-Learn more:
-  - [OKP4 Official Website](https://okp4.network/)
-  - [OKP4 Whitepaper](https://docs.okp4.network/whitepaper/abstract)
-  - [OKP4 Official GitHub Page](https://github.com/okp4)
-  - [OKP4 Official Blog](https://blog.okp4.network/)
+**Learn more:**
 
-Follow OKP4:
-  - [Official Discord](https://discord.gg/okp4)
-  - [Officia Twitter](https://twitter.com/OKP4_Protocol)
-  - [Official LinkedIn](https://www.linkedin.com/company/okp4-open-knowledge-protocol-for/)
+[<img src='/images/OKP4-Buttons-Website.png' alt='Anatolian Team' width="auto" height="55">](https://okp4.network/)
+[<img src='/images/OKP4-Buttons-Whitepaper.png' alt='Anatolian Team' width="auto" height="55">](https://docs.okp4.network/whitepaper/abstract)
+[<img src='/images/OKP4-Buttons-GitHub.png' alt='Anatolian Team' width="auto" height="55">](https://github.com/okp4)
+[<img src='/images/OKP4-Buttons-Blog.png' alt='Anatolian Team' width="auto" height="55">](https://blog.okp4.network/)
+
+
+**Follow OKP4:**
+
+[<img src='/images/OKP4-Buttons-Twitter.png' alt='Anatolian Team' width="auto" height="55">](https://twitter.com/OKP4_Protocol)
+[<img src='/images/OKP4-Buttons-Discord.png' alt='Anatolian Team' width="auto" height="55">](https://discord.gg/okp4)
+[<img src='/images/OKP4-Buttons-LinkedIn.png' alt='Anatolian Team' width="auto" height="55">](https://www.linkedin.com/company/okp4-open-knowledge-protocol-for/)
+
 
 ## Incentivized Testnet Program
 
 ### Phase 1: Sidh
-<img src="/images/OKP4-GitHub-Phase1.jpg" width="auto" height="auto">
+<img src="/images/OKP4-GitHub-Phase1.jpg" width="auto" height="auto"><br />
+[<img src='/images/OKP4-Buttons-Home.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/#home)
+[<img src='/images/OKP4-Buttons-Leaderboard.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/leaderboard#leaderboard)
+[<img src='/images/OKP4-Buttons-Tasks.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/tasks#tasks)
+[<img src='/images/OKP4-Buttons-Rewards.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/rewards#rewards)
+[<img src='/images/OKP4-Buttons-FAQ.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/faq#faq)
+[<img src='/images/OKP4-Buttons-Terms.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/terms#terms-conditions)
 
 ### Phase 2: Imbolc (Coming Soon)
 <img src="/images/OKP4-GitHub-Phase2.jpg" width="auto" height="auto">
