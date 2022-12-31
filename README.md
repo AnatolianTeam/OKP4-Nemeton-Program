@@ -1,4 +1,4 @@
-![OKP4-GitHub-Content-Banner](https://user-images.githubusercontent.com/102043225/210115257-b950ffb7-590c-44c6-9a9a-e2b12a5062a9.jpg)
+<img src="/images/OKP4-GitHub-Content-Banner.jpg" width="auto" height="auto">
 
 # OKP4 Nemeton Program
 Everything is about OKP4 Nemeton Program
@@ -29,12 +29,13 @@ Follow OKP4:
 
 ### Phase 1: Sidh
 ![OKP4-GitHub-Phase1](https://user-images.githubusercontent.com/102043225/210132728-143a26da-ee1d-45bf-8601-5236095823c4.jpg)
+<img src="/images/OOKP4-GitHub-Phase1.jpg" width="auto" height="auto">
 
 ### Phase 2: Imbolc (Coming Soon)
-![OKP4-GitHub-Phase2](https://user-images.githubusercontent.com/102043225/210132694-42bb5015-92a6-4597-8947-020a1c92b359.jpg)
+<img src="/images/OOKP4-GitHub-Phase2.jpg" width="auto" height="auto">
 
 ### Phase 3: Beltaine (Coming Soon)
-![OKP4-GitHub-Phase3](https://user-images.githubusercontent.com/102043225/210132699-fbe76a29-07f1-4350-bc53-16f451e2a3fe.jpg)
+<img src="/images/OOKP4-GitHub-Phase3.jpg" width="auto" height="auto">
 
 ## Node Setup Guide
 Please go to [Node Setup Guide](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/OKP4%20Nemeton%20Setup%20Guide.md) page.
