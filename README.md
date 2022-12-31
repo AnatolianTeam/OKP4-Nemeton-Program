@@ -28,14 +28,13 @@ Follow OKP4:
 ## Incentivized Testnet Program
 
 ### Phase 1: Sidh
-![OKP4-GitHub-Phase1](https://user-images.githubusercontent.com/102043225/210132728-143a26da-ee1d-45bf-8601-5236095823c4.jpg)
-<img src="/images/OOKP4-GitHub-Phase1.jpg" width="auto" height="auto">
+<img src="/images/OKP4-GitHub-Phase1.jpg" width="auto" height="auto">
 
 ### Phase 2: Imbolc (Coming Soon)
-<img src="/images/OOKP4-GitHub-Phase2.jpg" width="auto" height="auto">
+<img src="/images/OKP4-GitHub-Phase2.jpg" width="auto" height="auto">
 
 ### Phase 3: Beltaine (Coming Soon)
-<img src="/images/OOKP4-GitHub-Phase3.jpg" width="auto" height="auto">
+<img src="/images/OKP4-GitHub-Phase3.jpg" width="auto" height="auto">
 
 ## Node Setup Guide
 Please go to [Node Setup Guide](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/OKP4%20Nemeton%20Setup%20Guide.md) page.
