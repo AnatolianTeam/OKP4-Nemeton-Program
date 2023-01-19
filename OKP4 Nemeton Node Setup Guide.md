@@ -128,6 +128,11 @@ WantedBy=multi-user.target
 EOF
 ```
 
+## Resetting Chain Data
+```bash
+okp4d tendermint unsafe-reset-all --home $HOME/.okp4d --keep-addr-book
+```
+
 ## Starting Service
 ```bash
 systemctl daemon-reload && \
