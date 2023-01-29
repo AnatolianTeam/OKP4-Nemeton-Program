@@ -45,7 +45,7 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 
 #### Tasks
 ##### 1.[Expose RPC node](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/Phase%202:%20Imbolc%20Tasks/1.Expose%20RPC%20node.md)
-##### 2.[Provide snapshots]
+##### 2.[Provide snapshots](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/Phase%202:%20Imbolc%20Tasks/2.Provide%20snapshots.md)
 ##### 3.[Provide dashboard for the OKP4 network]
 
 ### Phase 3: Beltaine (Coming Soon)
