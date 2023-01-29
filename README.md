@@ -31,7 +31,7 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 
 ## Incentivized Testnet Program
 
-### Phase 1: Sidh
+### Phase 1: Sidh (Done)
 <img src="/images/OKP4-GitHub-Phase1.jpg" width="auto" height="auto"><br />
 [<img src='/images/OKP4-Buttons-Home.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/#home)
 [<img src='/images/OKP4-Buttons-Leaderboard.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/leaderboard#leaderboard)
@@ -40,8 +40,11 @@ The process of validation in the OKP4 blockchain is an essential part of ensurin
 [<img src='/images/OKP4-Buttons-FAQ.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/faq#faq)
 [<img src='/images/OKP4-Buttons-Terms.png' alt='Anatolian Team' width="auto" height="70">](https://nemeton.okp4.network/terms#terms-conditions)
 
-### Phase 2: Imbolc (Coming Soon)
+### Phase 2: Imbolc
 <img src="/images/OKP4-GitHub-Phase2.jpg" width="auto" height="auto">
+
+#### Tasks
+##### 1.[Expose RPC node](https://github.com/AnatolianTeam/OKP4-Nemeton-Program/blob/main/Phase%202:%20Imbolc%20Tasks/1.Expose%20RPC%20node.md)
 
 ### Phase 3: Beltaine (Coming Soon)
 <img src="/images/OKP4-GitHub-Phase3.jpg" width="auto" height="auto">
